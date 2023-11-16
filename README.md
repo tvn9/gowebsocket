@@ -1,2 +1,3 @@
-# Web Authentication
-Web Authentication with Go
+# Web Socket in Go
+
+Working with websocket in Go
